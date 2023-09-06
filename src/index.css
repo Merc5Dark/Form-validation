@@ -6,7 +6,7 @@
 
 body {
   height: 100vh;
-  background-image: linear-gradient(to right, #fff7c8 0%, #fa709a 100%);
+  background-image:  right, #fff7c8 0%, #fa709a 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,7 +22,7 @@ body {
 }
 
 .card-image { 
-  background: url("./");
+  background: url("./8032.jpg");
   background-position: center;
   background-size: cover;
 }
